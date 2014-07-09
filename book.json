@@ -1,13 +1,1 @@
-{
-    "name": "mybook",
-    "version": "0.0.0",
-    "description": "",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Me/mybook.git"
-    },
-    "author": "Me <me@gmail.com>",
-    "dependencies": {
-        "gitbook-plugin-autocover": "0.0.5"
-    }
-}
+{}
