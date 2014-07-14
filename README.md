@@ -1,5 +1,13 @@
 # My maps
 
+Happily making maps, with no software and open data.
 
-Some maps I made.
-OpenLayers
+Challenge: Minimal requirements for building up beautiful maps.
+
+
+
+## About the author
+
+
+
+
